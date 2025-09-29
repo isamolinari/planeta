@@ -40,7 +40,7 @@ labelRadioNao.textContent = 'Não';
 const imgResultado = document.createElement('img');
 imgResultado.className = 'img-planeta';
 imgResultado.alt = 'Ilustração do planeta';
-imgResultado.src = 'img/logo_planetas.png';
+imgResultado.src = 'logo_planetas.png';
 
 const textoResultado = document.createElement('div');
 textoResultado.className = 'qtd-planetas';
